@@ -28,11 +28,11 @@ A dupla desenvolveu quatro questões do leetcode.
 
 ## 📸 Screenshots
 
-### ✅ Accepted 
+### ✅ Accepted Edit Distance
 
 ![Edit Distance](/img/edit_distance.png)
 
-### ✅ Accepted 
+### ✅ Accepted Maximum Profit in Job Scheduling
 
 ![Maximum Profit](/img/maximum_profit.png)
 
@@ -67,13 +67,13 @@ Python 3 instalado no sistema.
 
 Clone o Repositório
 ```bash
-git clone https://github.com/projeto-de-algoritmos-2025/Grafos2_Nic_Sam.git
+git clone https://github.com/projeto-de-algoritmos-2025/PD_Nicollas_e_Samuel.git
 ```
 <br>
 
 Navegue até a pasta principal
 ```bash
-cd seuRepositorio/Grafos2_Nic_Sam
+cd seuRepositorio/PD_Nicollas_e_Samuel
 ```
 <br>
 
