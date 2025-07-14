@@ -18,8 +18,8 @@
 
 A dupla desenvolveu quatro questões do leetcode.
 
-1. [Nome](Link)
-2. [Nome](Link)
+1. [Edit Distance](https://leetcode.com/problems/edit-distance/description/)
+2. [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)
 3. [Nome](Link)
 4. [Nome](Link)
 
