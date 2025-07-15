@@ -51,7 +51,7 @@ A dupla desenvolveu quatro questões do leetcode.
 
 Neste vídeo, apresentamos um resumo completo do trabalho desenvolvido, abordando os principais pontos discutidos ao longo do projeto.
 
-[Nome](link)
+[Nome](https://www.youtube.com/watch?v=C647OuAhVmg)
 
 ---
 ## ⚙️ Instalação
