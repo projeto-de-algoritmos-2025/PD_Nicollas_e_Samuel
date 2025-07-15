@@ -20,8 +20,8 @@ A dupla desenvolveu quatro questões do leetcode.
 
 1. [Edit Distance](https://leetcode.com/problems/edit-distance/description/) - Nível Médio
 2. [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) - Nível Difícil
-3. [Nome](Link)
-4. [Nome](Link)
+3. [494. Target Sum](https://leetcode.com/problems/target-sum/description/) - Nível Médio 
+4. [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) - Nível Difícil
 
 
 ---
@@ -36,13 +36,13 @@ A dupla desenvolveu quatro questões do leetcode.
 
 ![Maximum Profit](/img/maximum_profit.png)
 
-### ✅ Accepted 
+### ✅ Accepted Target Sum
 
-![nome](caminho)
+![Target Sum](/img/345.png)
 
-### ✅ Accepted 
+### ✅ Accepted Russian Doll Envelopes
 
-![nome](caminho)
+![Russian Doll Envelopes](/img/345.png)
 
 ---
 
